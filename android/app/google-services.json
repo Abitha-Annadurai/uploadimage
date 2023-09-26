@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "334153311940",
+    "project_id": "failcode-b352d",
+    "storage_bucket": "failcode-b352d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334153311940:android:786130f8370f8e43078b91",
+        "android_client_info": {
+          "package_name": "com.example.failcode"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWjsB4Pd923P9eS4hMbjVE-BbOrih-arM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
